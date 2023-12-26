@@ -1,11 +1,13 @@
 import './App.css';
 
-import Formm from './components/Formm';
+import Formm from './Components/Formm';
+
 function App(props) {
   
   return (
     <div className="App">
         <Formm/>
+        
         
     </div>
   );
